@@ -1,0 +1,39 @@
+END USER LICENSE AGREEMENT (EULA)
+
+Copyright (c) 2025 [Proggersworld]. 
+Alle Rechte vorbehalten.
+
+Dies ist eine Lizenzvereinbarung zwischen Ihnen, dem Benutzer, 
+und Proggersworld (im Folgenden "Lizenzgeber") für die Nutzung 
+der Software "Controlling" (im Folgenden "Software").
+
+1. LIZENZGEWÄHRUNG
+   Sie erhalten das nicht-exklusive, nicht übertragbare Recht,
+   die Software auf einem Computer zu installieren und zu nutzen.
+   Die Software bleibt Eigentum des Lizenzgebers.
+
+2. EINSCHRÄNKUNGEN
+   - Sie dürfen die Software nicht verändern, dekompilieren,
+     zurückentwickeln oder weitervertreiben.
+   - Eine Vervielfältigung oder Veröffentlichung ohne vorherige
+     schriftliche Genehmigung des Lizenzgebers ist untersagt.
+
+3. HAFTUNGSAUSSCHLUSS
+   Die Software wird "wie besehen" bereitgestellt, ohne jegliche
+   ausdrückliche oder stillschweigende Gewährleistung.
+   Der Lizenzgeber übernimmt keine Haftung für Schäden,
+   die aus der Nutzung oder der Unfähigkeit zur Nutzung 
+   der Software entstehen.
+
+4. LAUFZEIT UND BEENDIGUNG
+   Diese Lizenz gilt bis zu ihrer Beendigung. Sie endet
+   automatisch, wenn Sie gegen eine Bedingung dieser
+   Vereinbarung verstoßen. Im Falle der Beendigung
+   müssen Sie alle Kopien der Software löschen.
+
+5. ANWENDBARES RECHT
+   Diese Vereinbarung unterliegt dem Recht der Bundesrepublik
+   Deutschland. Gerichtsstand ist [Dein Standort].
+
+Mit der Installation und Nutzung der Software erklären Sie sich
+mit den Bedingungen dieser Lizenzvereinbarung einverstanden.
