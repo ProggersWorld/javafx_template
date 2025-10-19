@@ -1,39 +1,39 @@
 END USER LICENSE AGREEMENT (EULA)
 
-Copyright (c) 2025 [Proggersworld]. 
-Alle Rechte vorbehalten.
+Copyright (c) 2025 Proggersworld.
+All rights reserved.
 
-Dies ist eine Lizenzvereinbarung zwischen Ihnen, dem Benutzer, 
-und Proggersworld (im Folgenden "Lizenzgeber") für die Nutzung 
-der Software "Controlling" (im Folgenden "Software").
+This is a license agreement between you, the user, and Proggersworld (hereinafter referred to as the "Licensor") for the use of the software "Controlling" (hereinafter referred to as the "Software").
 
-1. LIZENZGEWÄHRUNG
-   Sie erhalten das nicht-exklusive, nicht übertragbare Recht,
-   die Software auf einem Computer zu installieren und zu nutzen.
-   Die Software bleibt Eigentum des Lizenzgebers.
+1. GRANT OF LICENSE
 
-2. EINSCHRÄNKUNGEN
-   - Sie dürfen die Software nicht verändern, dekompilieren,
-     zurückentwickeln oder weitervertreiben.
-   - Eine Vervielfältigung oder Veröffentlichung ohne vorherige
-     schriftliche Genehmigung des Lizenzgebers ist untersagt.
+You are granted a non-exclusive, non-transferable right to install and use the Software on one computer. The Software remains the property of the Licensor.
 
-3. HAFTUNGSAUSSCHLUSS
-   Die Software wird "wie besehen" bereitgestellt, ohne jegliche
-   ausdrückliche oder stillschweigende Gewährleistung.
-   Der Lizenzgeber übernimmt keine Haftung für Schäden,
-   die aus der Nutzung oder der Unfähigkeit zur Nutzung 
-   der Software entstehen.
+2. RESTRICTIONS
 
-4. LAUFZEIT UND BEENDIGUNG
-   Diese Lizenz gilt bis zu ihrer Beendigung. Sie endet
-   automatisch, wenn Sie gegen eine Bedingung dieser
-   Vereinbarung verstoßen. Im Falle der Beendigung
-   müssen Sie alle Kopien der Software löschen.
+You may not modify, decompile, reverse-engineer, or redistribute the Software.
 
-5. ANWENDBARES RECHT
-   Diese Vereinbarung unterliegt dem Recht der Bundesrepublik
-   Deutschland. Gerichtsstand ist [Dein Standort].
+Copying or publishing the Software without prior written permission from the Licensor is prohibited.
 
-Mit der Installation und Nutzung der Software erklären Sie sich
-mit den Bedingungen dieser Lizenzvereinbarung einverstanden.
+
+3. DISCLAIMER OF WARRANTY
+
+The Software is provided "as is" without any express or implied warranty.
+The Licensor assumes no liability for any damages arising from the use of or inability to use the Software.
+
+4. TERM AND TERMINATION
+
+This license remains in effect until terminated. It will automatically terminate if you breach any term of this agreement. Upon termination, you must delete all copies of the Software.
+
+5. GOVERNING LAW
+
+This agreement is governed by the laws of the Federal Republic of Germany.
+Place of jurisdiction is [Your Location].
+
+By installing and using the Software, you agree to the terms of this license agreement.
+
+
+---
+
+Would you like me to adapt it into a more formal legal English style (e.g., for software distribution or publication) or keep it as this clear, direct translation?
+
