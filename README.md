@@ -7,7 +7,7 @@ JavaFX Template is a (nearly) fully-featured template for JavaFX. It includes:
 * Logger with log4j
 * Customized for Linux, macOS & Windows
 * Generates a FAT JAR file
-* Includes installation scripts that create *.deb, *.pkg & *.exe files depending on the OS used (macOS not yet tested)
+* Includes installation scripts that create *.deb, *.rpm & *.exe files depending on the OS used (macOS not yet tested)
 
 ## 2. Requirements
 
