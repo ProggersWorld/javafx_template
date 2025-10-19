@@ -35,7 +35,7 @@ JavaFX Template is a (nearly) fully-featured template for JavaFX. It includes:
 * version
 * properties.app.name
 * properties.main.class
-* Change your project name in the tag "<name>" (the penultimate line)
+* Change your project name in the tag "name" (the penultimate line)
 
 #### 3.2.2 Changes in `scripts/build-installer.bat` (for Windows users):
 
