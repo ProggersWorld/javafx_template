@@ -23,7 +23,7 @@ JavaFX Template is a (nearly) fully-featured template for JavaFX. It includes:
 
 2. Download the zip file into your project folder.
 
-3. Navigate into your project folder with `cd project`.
+3. Navigate into your project folder.
 4. Unzip your file.
 
 ### 3.2 Manually adjust files in your project (case-sensitive)
